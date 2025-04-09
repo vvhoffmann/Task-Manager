@@ -34,4 +34,6 @@ You can use the following credentials to log in, or click on a demo button on th
   `112233`  
   `mark@mail.com`  
   `112233`
-![image](https://github.com/user-attachments/assets/026330bb-f879-4dcb-9ed1-20259423a363)
+
+![image](https://github.com/user-attachments/assets/bf75e5c5-1505-4fa3-bcfb-4cc9064fab93)
+
